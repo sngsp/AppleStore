@@ -13,6 +13,7 @@
 		5212E2562BBA6CF500312908 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2542BBA6CF500312908 /* Main.storyboard */; };
 		5212E2582BBA6CF700312908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2572BBA6CF700312908 /* Assets.xcassets */; };
 		5212E25B2BBA6CF700312908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2592BBA6CF700312908 /* LaunchScreen.storyboard */; };
+		FAAC02522BBAC83700BC98D5 /* appleItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAC02512BBAC83700BC98D5 /* appleItems.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5212E2572BBA6CF700312908 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5212E25A2BBA6CF700312908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5212E25C2BBA6CF700312908 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAAC02512BBAC83700BC98D5 /* appleItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appleItems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +60,38 @@
 			children = (
 				5212E24E2BBA6CF500312908 /* AppDelegate.swift */,
 				5212E2502BBA6CF500312908 /* SceneDelegate.swift */,
-				5212E2522BBA6CF500312908 /* ViewController.swift */,
-				5212E2542BBA6CF500312908 /* Main.storyboard */,
+				FAAC02502BBAC7E900BC98D5 /* contorllers */,
+				FAAC024F2BBAC7E000BC98D5 /* views */,
+				FAAC024E2BBAC7D300BC98D5 /* models */,
 				5212E2572BBA6CF700312908 /* Assets.xcassets */,
-				5212E2592BBA6CF700312908 /* LaunchScreen.storyboard */,
 				5212E25C2BBA6CF700312908 /* Info.plist */,
 			);
 			path = AppleStore;
+			sourceTree = "<group>";
+		};
+		FAAC024E2BBAC7D300BC98D5 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				FAAC02512BBAC83700BC98D5 /* appleItems.swift */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		FAAC024F2BBAC7E000BC98D5 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				5212E2542BBA6CF500312908 /* Main.storyboard */,
+				5212E2592BBA6CF700312908 /* LaunchScreen.storyboard */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		FAAC02502BBAC7E900BC98D5 /* contorllers */ = {
+			isa = PBXGroup;
+			children = (
+				5212E2522BBA6CF500312908 /* ViewController.swift */,
+			);
+			path = contorllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,6 +168,7 @@
 				5212E2532BBA6CF500312908 /* ViewController.swift in Sources */,
 				5212E24F2BBA6CF500312908 /* AppDelegate.swift in Sources */,
 				5212E2512BBA6CF500312908 /* SceneDelegate.swift in Sources */,
+				FAAC02522BBAC83700BC98D5 /* appleItems.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
