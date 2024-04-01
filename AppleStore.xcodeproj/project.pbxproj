@@ -13,6 +13,8 @@
 		5212E2562BBA6CF500312908 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2542BBA6CF500312908 /* Main.storyboard */; };
 		5212E2582BBA6CF700312908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2572BBA6CF700312908 /* Assets.xcassets */; };
 		5212E25B2BBA6CF700312908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2592BBA6CF700312908 /* LaunchScreen.storyboard */; };
+		524EF7E72BBB67A800496CCC /* buyItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524EF7E62BBB67A800496CCC /* buyItems.swift */; };
+		524EF7E92BBB6B3C00496CCC /* BottomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524EF7E82BBB6B3C00496CCC /* BottomCell.swift */; };
 		FAAC02522BBAC83700BC98D5 /* appleItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAC02512BBAC83700BC98D5 /* appleItems.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +27,8 @@
 		5212E2572BBA6CF700312908 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5212E25A2BBA6CF700312908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5212E25C2BBA6CF700312908 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		524EF7E62BBB67A800496CCC /* buyItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buyItems.swift; sourceTree = "<group>"; };
+		524EF7E82BBB6B3C00496CCC /* BottomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomCell.swift; sourceTree = "<group>"; };
 		FAAC02512BBAC83700BC98D5 /* appleItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appleItems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,6 +77,8 @@
 			isa = PBXGroup;
 			children = (
 				FAAC02512BBAC83700BC98D5 /* appleItems.swift */,
+				524EF7E62BBB67A800496CCC /* buyItems.swift */,
+				524EF7E82BBB6B3C00496CCC /* BottomCell.swift */,
 			);
 			path = models;
 			sourceTree = "<group>";
@@ -165,8 +171,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				524EF7E92BBB6B3C00496CCC /* BottomCell.swift in Sources */,
 				5212E2532BBA6CF500312908 /* ViewController.swift in Sources */,
 				5212E24F2BBA6CF500312908 /* AppDelegate.swift in Sources */,
+				524EF7E72BBB67A800496CCC /* buyItems.swift in Sources */,
 				5212E2512BBA6CF500312908 /* SceneDelegate.swift in Sources */,
 				FAAC02522BBAC83700BC98D5 /* appleItems.swift in Sources */,
 			);
