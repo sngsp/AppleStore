@@ -13,6 +13,17 @@
 		5212E2562BBA6CF500312908 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2542BBA6CF500312908 /* Main.storyboard */; };
 		5212E2582BBA6CF700312908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2572BBA6CF700312908 /* Assets.xcassets */; };
 		5212E25B2BBA6CF700312908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212E2592BBA6CF700312908 /* LaunchScreen.storyboard */; };
+		B9E693A82BBB8B1D005AF200 /* MacMini.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A12BBB8B1C005AF200 /* MacMini.png */; };
+		B9E693A92BBB8B1D005AF200 /* 전체.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A22BBB8B1C005AF200 /* 전체.png */; };
+		B9E693AA2BBB8B1D005AF200 /* iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A32BBB8B1C005AF200 /* iPhone.png */; };
+		B9E693AB2BBB8B1D005AF200 /* iMac.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A42BBB8B1D005AF200 /* iMac.png */; };
+		B9E693AC2BBB8B1D005AF200 /* Mac.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A52BBB8B1D005AF200 /* Mac.png */; };
+		B9E693AD2BBB8B1D005AF200 /* macBook.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A62BBB8B1D005AF200 /* macBook.png */; };
+		B9E693AE2BBB8B1D005AF200 /* iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693A72BBB8B1D005AF200 /* iPad.png */; };
+		B9E693B02BBB8B71005AF200 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693AF2BBB8B71005AF200 /* apple.png */; };
+		B9E693B22BBB8C08005AF200 /* Apple.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693B12BBB8C08005AF200 /* Apple.png */; };
+		B9E693B42BBB98FB005AF200 /* watch.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693B32BBB98FB005AF200 /* watch.png */; };
+		B9E693B62BBB9BBB005AF200 /* apple_nuggi.png in Resources */ = {isa = PBXBuildFile; fileRef = B9E693B52BBB9BBB005AF200 /* apple_nuggi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		5212E2572BBA6CF700312908 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5212E25A2BBA6CF700312908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5212E25C2BBA6CF700312908 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9E693A12BBB8B1C005AF200 /* MacMini.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MacMini.png; sourceTree = "<group>"; };
+		B9E693A22BBB8B1C005AF200 /* 전체.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "전체.png"; sourceTree = "<group>"; };
+		B9E693A32BBB8B1C005AF200 /* iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone.png; sourceTree = "<group>"; };
+		B9E693A42BBB8B1D005AF200 /* iMac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iMac.png; sourceTree = "<group>"; };
+		B9E693A52BBB8B1D005AF200 /* Mac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mac.png; sourceTree = "<group>"; };
+		B9E693A62BBB8B1D005AF200 /* macBook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = macBook.png; sourceTree = "<group>"; };
+		B9E693A72BBB8B1D005AF200 /* iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPad.png; sourceTree = "<group>"; };
+		B9E693AF2BBB8B71005AF200 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
+		B9E693B12BBB8C08005AF200 /* Apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Apple.png; path = ../../../../Desktop/Apple.png; sourceTree = "<group>"; };
+		B9E693B32BBB98FB005AF200 /* watch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = watch.png; sourceTree = "<group>"; };
+		B9E693B52BBB9BBB005AF200 /* apple_nuggi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple_nuggi.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +83,17 @@
 				5212E2522BBA6CF500312908 /* ViewController.swift */,
 				5212E2542BBA6CF500312908 /* Main.storyboard */,
 				5212E2572BBA6CF700312908 /* Assets.xcassets */,
+				B9E693A42BBB8B1D005AF200 /* iMac.png */,
+				B9E693A72BBB8B1D005AF200 /* iPad.png */,
+				B9E693A32BBB8B1C005AF200 /* iPhone.png */,
+				B9E693A52BBB8B1D005AF200 /* Mac.png */,
+				B9E693A62BBB8B1D005AF200 /* macBook.png */,
+				B9E693A12BBB8B1C005AF200 /* MacMini.png */,
+				B9E693B32BBB98FB005AF200 /* watch.png */,
+				B9E693B52BBB9BBB005AF200 /* apple_nuggi.png */,
+				B9E693AF2BBB8B71005AF200 /* apple.png */,
+				B9E693B12BBB8C08005AF200 /* Apple.png */,
+				B9E693A22BBB8B1C005AF200 /* 전체.png */,
 				5212E2592BBA6CF700312908 /* LaunchScreen.storyboard */,
 				5212E25C2BBA6CF700312908 /* Info.plist */,
 			);
@@ -125,9 +158,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9E693A82BBB8B1D005AF200 /* MacMini.png in Resources */,
+				B9E693AE2BBB8B1D005AF200 /* iPad.png in Resources */,
 				5212E25B2BBA6CF700312908 /* LaunchScreen.storyboard in Resources */,
+				B9E693B02BBB8B71005AF200 /* apple.png in Resources */,
+				B9E693AA2BBB8B1D005AF200 /* iPhone.png in Resources */,
+				B9E693AC2BBB8B1D005AF200 /* Mac.png in Resources */,
+				B9E693B22BBB8C08005AF200 /* Apple.png in Resources */,
+				B9E693B62BBB9BBB005AF200 /* apple_nuggi.png in Resources */,
 				5212E2582BBA6CF700312908 /* Assets.xcassets in Resources */,
+				B9E693AB2BBB8B1D005AF200 /* iMac.png in Resources */,
 				5212E2562BBA6CF500312908 /* Main.storyboard in Resources */,
+				B9E693A92BBB8B1D005AF200 /* 전체.png in Resources */,
+				B9E693AD2BBB8B1D005AF200 /* macBook.png in Resources */,
+				B9E693B42BBB98FB005AF200 /* watch.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
