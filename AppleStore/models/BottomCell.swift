@@ -14,4 +14,7 @@ class BottomCell: UITableViewCell {
     @IBOutlet weak var buyCountInCell: UIButton!
     @IBOutlet weak var buyPriceInCell: UILabel!
     
+    func setup() {
+        buyColorInCell.layer.cornerRadius = 15
+    }
 }
