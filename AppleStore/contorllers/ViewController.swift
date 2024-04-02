@@ -17,8 +17,6 @@ class ViewController: UIViewController, UITableViewDataSource {
     
     @IBOutlet weak var bottomTableView: UITableView!
     
-    @IBOutlet weak var colorView: UIImageView!
-    
     
     
     
