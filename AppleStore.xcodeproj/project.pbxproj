@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B3F71202BBAA8A100C8EE0A /* SecondPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3F711F2BBAA8A100C8EE0A /* SecondPageViewController.swift */; };
 		5212E24F2BBA6CF500312908 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5212E24E2BBA6CF500312908 /* AppDelegate.swift */; };
 		5212E2512BBA6CF500312908 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5212E2502BBA6CF500312908 /* SceneDelegate.swift */; };
 		5212E2532BBA6CF500312908 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5212E2522BBA6CF500312908 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B3F711F2BBAA8A100C8EE0A /* SecondPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPageViewController.swift; sourceTree = "<group>"; };
 		5212E24B2BBA6CF500312908 /* AppleStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5212E24E2BBA6CF500312908 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5212E2502BBA6CF500312908 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -170,6 +172,7 @@
 			files = (
 				524EF7E92BBB6B3C00496CCC /* BottomCell.swift in Sources */,
 				5212E2532BBA6CF500312908 /* ViewController.swift in Sources */,
+				0B3F71202BBAA8A100C8EE0A /* SecondPageViewController.swift in Sources */,
 				5212E24F2BBA6CF500312908 /* AppDelegate.swift in Sources */,
 				5212E2512BBA6CF500312908 /* SceneDelegate.swift in Sources */,
 				FAAC02522BBAC83700BC98D5 /* appleItems.swift in Sources */,
